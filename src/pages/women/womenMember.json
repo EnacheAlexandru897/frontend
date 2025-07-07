@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "ml1": "ml-10", 
+    "ml2": "ml-7",
+    "img": "women/womenMember/womenmember1.png",
+    "name": "Member Product",
+    "info": "First and  Exclusive  Access   to Products",
+    "button": "Shop with Us" 
+  },
+
+  {
+    "id": 2,
+    "img": "women/womenMember/womenmember2.png",
+    "name": "Nike Run Club",
+    "info": "Run Tracking, Audio Guided Runs  and  Expert Tips",
+    "button": "un With Us" 
+  },
+
+  {
+    "id": 3,
+    "img": "women/womenMember/womenmember3.png",
+    "name": "Nike Training Club",
+    "info": "Hundreds of  Workouts Breathwork and More",
+    "button": "Move With Us" 
+  }
+]

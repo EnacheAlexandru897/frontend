@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Shoes",
+    "text1": "Black Running Shoes",
+    "text2": "White Running Shoes",
+    "text3": "Nike P-6000",
+    "text4": "Nike Initiator"
+  },
+
+  {
+    "id": 2,
+    "title": "Clothing",
+    "text1": "Yoga Trousers",
+    "text2": "Tech Fleece Joggers",
+    "text3": "Tech Fleece"
+  },
+
+  {
+    "id": 3,
+    "title": "Kids'",
+    "text1": "Girls' Black Shoes",
+    "text2": "Kids' Black Shoes"
+  },
+
+  {
+    "id": 4,
+    "title": "Featured",
+    "text1": "Football Club Teams",
+    "text2": "Football",
+    "text3": "Nike England",
+    "text4": "Nike Run Club"
+  }
+]

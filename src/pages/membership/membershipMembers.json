@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "width": "w-24",
+    "img": "membership/membership1.PNG",
+    "name": "Free Shipping",
+    "info": "That's right, delivery is free for all Members."
+  },
+  {
+    "id": 2,
+    "width": "w-17",
+    "height": "h-17",
+    "img": "membership/membership2.PNG",
+    "name": "Receiptless Returns",
+    "info": "Use the Nike App to return or exchange, receipt-free."
+  },
+  {
+    "id": 3,
+    "width": "w-17",
+    "height": "h-17",
+    "img": "membership/membership3.PNG",
+    "name": "Member Experiences",
+    "info": "Join your community for live, Member-only events.."
+  }
+]

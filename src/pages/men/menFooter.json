@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Men's Shoes",
+    "text1": "Men's High Tops",
+    "text2": "Men's Cross Training Shoes",
+    "text3": "Nike Men's Track Spikes",
+    "text4": "Men's Weightlifting Shoes"
+  },
+
+  {
+    "id": 2,
+    "title": "Men's Clothing & Gear",
+    "text1": "T-Shirts for Men",
+    "text2": "Men's Tank Tops",
+    "text3": "Men's 2 in 1 Shorts",
+    "text4": "Men's Football Shorts"
+  },
+
+  {
+    "id": 3,
+    "title": "Collections",
+    "text1": "Men's Nike Air Max",
+    "text2": "Men's Nike Air Max 90",
+    "text3": "Men's Huaraches",
+    "text4": "Nike Cortez Men's"
+  },
+
+  {
+    "id": 4,
+    "title": "Featured",
+    "text1": "Nike Run Club",
+    "text2": "Nike Training Club",
+    "text3": "Men's Sportswear",
+    "text4": "Men's Yoga"
+  }
+]

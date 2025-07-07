@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@theme {
+  --breakpoint-modf: 960px;
+  --breakpoint-modf1: 630px;
+  --breakpoint-modf2: 1400px;
+  --breakpoint-modf3: 600px;
+  --breakpoint-modf4: 800px;
+  --breakpoint-modf5: 1154px;
+  --breakpoint-modf6: 980px;
+  --breakpoint-modf7: 560px;
+  --breakpoint-modf8: 500px;
+  --breakpoint-modf9: 1115px;
+  --breakpoint-modf10: 900px;
+  --breakpoint-modf11: 300px;
+  --breakpoint-modf12: 1050px;
+}

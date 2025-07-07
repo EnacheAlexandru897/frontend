@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "img": "women/womenseas/womenseas1.PNG",
+    "img1": "women/womenseas/womenseas3.PNG",
+    "name": "Fresh styles for summer days",
+    "button": "Shop"
+  },
+  {
+    "id": 2,
+    "img": "women/womenseas/womenseas2.PNG",
+    "img1": "women/womenseas/womenseas4.PNG",
+    "name": "Summer Training",
+    "button": "Shop"
+  }
+]

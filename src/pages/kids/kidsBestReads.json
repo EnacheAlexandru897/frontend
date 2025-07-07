@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "ml1": "ml-10",
+    "ml2": "ml-7",
+    "ml3": "ml-3",
+    "img": "kids/kidsbestr/kidsbestr1.PNG",
+    "img1": "kids/kidsbestr/kidsbestr5.PNG",
+    "text": "Nike and LEGO® partnership",
+    "name": "Sport Is Our Play",
+    "info": "Introducing our newest partner in play, the LEGO Group. With our shared commitment to sport and creativity, we're building a world of infinite possibilites."
+  },
+ 
+  {
+    "id": 2,
+    "img": "kids/kidsbestr/kidsbestr2.PNG",
+    "img1": "kids/kidsbestr/kidsbestr2.PNG",
+    "text": "Buying Guide",
+    "name": "The Best Nike Leggings for Kids",
+    "info": "Explore comfy, versatile Nike leggings for kids in this Nike buying guide."
+  },
+ 
+  {
+    "id": 3,
+    "img": "kids/kidsbestr/kidsbestr3.PNG",
+    "img1": "kids/kidsbestr/kidsbestr3.PNG",
+    "text": "Sizing Tips",
+    "name": "Girls Sports Bra Fit Guide",
+    "info": "Finding the perfect bra fit with the right support fuels her confidence. tap into this step-by-step guide for everything you need to know."
+  },
+ 
+  {
+    "id": 4,
+    "ml1": "mr-10",
+    "ml2": "mr-7",
+    "ml3": "mr-3",
+    "img": "kids/kidsbestr/kidsbestr4.PNG",
+    "img1": "kids/kidsbestr/kidsbestr4.PNG",
+    "text": "Buying Guide",
+    "name": "The Best Nike Shoes for Kids",
+    "info": "Whether their day calls for pick-up basketball, hopscotch or sprints around the track, there's a Nike kids' shoe for every young athlete."
+  }
+]

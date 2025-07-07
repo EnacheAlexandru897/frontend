@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "ml1": "ml-13",
+    "ml2": "ml-13",
+    "ml3": "ml-13",
+    "img": "menNewArrivals/menlat/menlat1.PNG",
+    "name": "Fear Nothing",
+    "info": "Nike 2025 National Team  Collections",
+    "button": "Shop"
+  },
+  
+  {
+    "id": 2,
+    "img": "menNewArrivals/menlat/menlat2.PNG",
+    "name": "Fear Nothing",
+    "info": "Nike 2025 National Team  Collections",
+    "button": "Shop"
+  },
+  
+  {
+    "id": 3,
+    "img": "menNewArrivals/menlat/menlat3.PNG",
+    "name": "Fear Nothing",
+    "info": "Nike 2025 National Team  Collections",
+    "button": "Shop"
+  },
+  
+  {
+    "id": 4,
+    "img": "menNewArrivals/menlat/menlat4.PNG",
+    "name": "Fear Nothing",
+    "info": "Nike 2025 National Team  Collections",
+    "button": "Shop"
+  },
+  
+  {
+    "id": 5,
+    "img": "menNewArrivals/menlat/menlat5.PNG",
+    "name": "Fear Nothing",
+    "info": "Nike 2025 National Team  Collections",
+    "button": "Shop"
+  }
+]

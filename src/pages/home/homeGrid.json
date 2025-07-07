@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "img": "photo/4.PNG",
+    "text1": "Just Arrived",
+    "text2": "Nike National Team Collection",
+    "shop": "Shop"
+  },
+
+  {
+    "id": 2,
+    "img": "photo/5.PNG",
+    "text1": "Just Arrived",
+    "text2": "Nike National Team Collection",
+    "shop": "Shop"
+  },
+
+  {
+    "id": 3,
+    "img": "photo/6.PNG",
+    "text1": "Just Arrived",
+    "text2": "Nike National Team Collection",
+    "shop": "Shop"
+  },
+
+  {
+    "id": 4,
+    "img": "photo/7.PNG",
+    "text1": "Just Arrived",
+    "text2": "Nike National Team Collection",
+    "shop": "Shop"
+  }
+]

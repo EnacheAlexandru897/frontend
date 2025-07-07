@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Returns",
+    "question1": "What is Nike's returns policy?",
+    "question2": "How do I return my Nike order?",
+    "question3": "Where is my refund?",
+    "viewAll": "View all"
+  },
+
+  {
+    "id": 2,
+    "title": "Dispatch & Delivery",
+    "question1": "What are Nike's delivery options?",
+    "question2": "How do I get free delivery on Nike orders?",
+    "question3": "Can my Nike order be dispatched internationally?",
+    "viewAll": "View all"
+  },
+
+  
+  {
+    "id": 3,
+    "title": "Orders & Payment",
+    "question1": "Where is my Nike order?",
+    "question2": "Can I cancel or change my Nike order?",
+    "question3": "What are Nike's payment options?",
+    "viewAll": "View all"
+  },
+
+  {
+    "id": 4,
+    "title": "Shopping",
+    "question1": "How do I find the right size and fit?",
+    "question2": "Does Nike offer product advice?",
+    "question3": "How do I use a Nike promo code?",
+    "viewAll": "View all"
+  },
+
+  {
+    "id": 5,
+    "title": "Nike Membership & Apps",
+    "question1": "What is Nike Membership?",
+    "question2": "How do I get Nike's newest sneaker releases?",
+    "question3": "What are the birthday promo terms and conditions?",
+    "viewAll": "View all"
+  },
+
+
+  {
+    "id": 6,
+    "title": "Company Info",
+    "question1": "Do Nike shoes have a warranty?",
+    "question2": "What is the Nike By You personalisation policy?",
+    "question3": "Where can I learn more about Nike, Inc.?",
+    "viewAll": "View all"
+  }
+]

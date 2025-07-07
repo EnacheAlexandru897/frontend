@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "ml": "ml-10",
+    "ml1": "ml-7",
+    "img": "women/womenbestr/womenbestr1.PNG",
+    "name": "Buying guide",
+    "title": "How to choose a sports bra",
+    "info": "Follow these tips on choosing the exact fit and style for a sports bra that meets your workout needs."
+  },
+  {
+    "id": 2,
+    "img": "women/womenbestr/womenbestr2.PNG",
+    "name": "Styling tips",
+    "title": "How to style cargo trousers",
+    "info": "All the pockets, please."
+  },
+  {
+    "id": 3,
+    "img": "women/womenbestr/womenbestr3.PNG",
+    "name": "Innovation",
+    "title": "Give old sneakers new-life--with oranges, walnuts and flour?",
+    "info": "Yes really! Join Nike footwear designers as they share three ways to use natural ingredients in easy, at-home actions that'll help your sneakers last longer."
+  },
+  {
+    "id": 4,
+    "img": "women/womenbestr/womenbestr4.PNG",
+    "name": "Buying guide",
+    "title": "How to layer clothes for every season",
+    "info": "Stay comfortable in any type of weather with these layering tips."
+  },
+  {
+    "id": 5,
+    "img": "women/womenbestr/womenbestr5.PNG",
+    "name": "Health & Wellness",
+    "title": "How to Stress Affects the Body -- And What To Do About It",
+    "info": "You may not even fully realize how stress manifests within you each day. Here, experts and researchers alike detail the effects of stress on the body and offer ways you can try to reduce it."
+  },
+  {
+    "id": 6,
+    "img": "women/womenbestr/womenbestr6.PNG",
+    "name": "Styling tips",
+    "title": "How to style leggings for a day out",
+    "info": "Check out these six outfit ideas featuring the most versatile comfy pants, with style at the top of mind."
+  },
+  {
+    "id": 7,
+    "img": "women/womenbestr/womenbestr7.PNG",
+    "name": "Buying guide",
+    "title": "How to find your size in Nike women's pants",
+    "info": "In this guide, find your measurements to determine your size in Nike women's pants"
+  },
+  {
+    "id": 8,
+    "img": "women/womenbestr/womenbestr8.PNG",
+    "name": "Buying guide",
+    "title": "Nike Fleece hoodie style for women to shop now",
+    "info": "Whether you prefer fluffy fleece or tech-ready designs, these hoodies tout major warmth and comfort wherever you go."
+  },
+  {
+    "id": 9,
+    "img": "women/womenbestr/womenbestr9.PNG",
+    "name": "Coaching",
+    "title": "Trained Podcast: Elevate women in sports with Anna Kessel",
+    "info": "Women belong in sport. Sportswriter and journalist Anna Kessel is saying it louder for the people at the back."
+  },
+  {
+    "id": 10,
+    "img": "women/womenbestr/womenbestr10.PNG",
+    "name": "Styling tips",
+    "title": "How to style your Nike oversized t-shirt",
+    "info": "Follow these tips to have confidence in your ensemble."
+  }
+]

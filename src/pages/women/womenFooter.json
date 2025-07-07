@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Women's Shoes",
+    "text1": "Women's Dance Shoes",
+    "text2": "Women's Pegasus",
+    "text3": "Road Running Shoes",
+    "text4": "Women's Weightlifting Shoes"
+  },
+
+  {
+    "id": 2,
+    "title": "Women's Clothing & Gear",
+    "text1": "Women's Running Jackets",
+    "text2": "Women's White Joodies",
+    "text3": "Plus Size Gymwear",
+    "text4": "Women's 2 in 1 Shorts"
+  },
+
+  {
+    "id": 3,
+    "title": "Collections",
+    "text1": "Women's Nike Air Max",
+    "text2": "Women's Air Max 97",
+    "text3": "Women's Nike Metcon",
+    "text4": "Women's Nike Air Max"
+  },
+
+  {
+    "id": 4,
+    "title": "Featured",
+    "text1": "Clothing",
+    "text2": "Nike Run Club",
+    "text3": "Nike Training Club",
+    "text4": "White Sports Bras"
+  }
+]

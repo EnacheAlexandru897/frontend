@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "ml1": "ml-13",
+    "ml2": "ml-8",
+    "ml3": "ml-5",
+    "img": "women/womentre/womentre1.PNG",
+    "name": "Nike Sportswear",
+    "info": "Women's Denim Trousers",
+    "price": "RON 449.99"
+  },
+
+  
+  {
+    "id": 2,
+    "img": "women/womentre/womentre2.PNG",
+    "name": "Nike Field General 'Butter'",
+    "info": "Women's Shoes",
+    "price": "RON 549.99"
+  },
+
+  {
+    "id": 3,
+    "img": "women/womentre/womentre3.PNG",
+    "name": "Nike Pacific",
+    "info": "Women's Shoes",
+    "price": "RON 379.99"
+  },
+
+  {
+    "id": 4,
+    "img": "women/womentre/womentre4.PNG",
+    "name": "Nike Free Metcon 6",
+    "info": "Women's Workout Shoes",
+    "price": "RON 649.99"
+  },
+
+  {
+    "id": 5,
+    "img": "women/womentre/womentre5.PNG",
+    "name": "Nike Pegasus 41",
+    "info": "Women's Road Running Shoes",
+    "price": "RON 699.99"
+  },
+
+  {
+    "id": 6,
+    "img": "women/womentre/womentre6.PNG",
+    "name": "Nike Sportswear",
+    "info": "Women's T-shirt",
+    "price": "RON 199.99"
+  },
+
+  {
+    "id": 7,
+    "img": "women/womentre/womentre7.PNG",
+    "name": "Nike LD-1000",
+    "info": "Women's Shoes",
+    "price": "RON 449.99"
+  }
+]

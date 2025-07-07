@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "ml1": "ml-13",
+    "ml2": "ml-8",
+    "ml3": "ml-5",
+    "img": "menNewArrivals/men1.png",
+    "title": "Nike ReactX Rejuven8",
+    "info": "Men's Slides",
+    "price": "RON 299.99"
+  },
+  
+  {
+    "id": 2,
+    "img": "menNewArrivals/men2.png",
+    "title": "Nike Pregasus Premium",
+    "info": "Men's Road Running Shoes",
+    "price": "RON 1,049.99"
+  },
+
+  {
+    "id": 3,
+    "img": "menNewArrivals/men3.png",
+    "title": "Nike Air MAx 95 SP",
+    "info": "Men's Shoes",
+    "price": "RON 1,049.99"
+  },
+
+  {
+    "id": 4,
+    "img": "menNewArrivals/men4.png",
+    "title": "Nike Vomero 18 SE",
+    "info": "Men's Road Running Shoes",
+    "price": "RON 799.99"
+  },
+
+  {
+    "id": 5,
+    "img": "menNewArrivals/men5.png",
+    "title": "England Club",
+    "info": "Men's Nike Football Knit Polo",
+    "price": "RON 449.99"
+  },
+
+  {
+    "id": 6,
+    "img": "menNewArrivals/men6.png",
+    "title": "Niko Vomero 18",
+    "info": "Men's Road Running Shoes",
+    "price": "RON 749.99"
+  },
+
+  {
+    "id": 7,
+    "img": "menNewArrivals/men7.png",
+    "title": "FFF Club",
+    "info": "Men's Nike Football Knit Polo",
+    "price": "RON 449.99"
+  },
+
+  {
+    "id": 8,
+    "img": "menNewArrivals/men8.png",
+    "title": "Nike Air Max TL 2.5",
+    "info": "Men's Shoes",
+    "price": "RON 899.99"
+  },
+
+  {
+    "id": 9,
+    "img": "menNewArrivals/men9.png",
+    "title": "Nike Hypervenom Phantom RGN SE 'Bright Citrus",
+    "info": "Firm-Ground Low-Top Football Boot",
+    "price": "RON 1,249.99"
+  },
+
+  {
+    "id": 10,
+    "img": "menNewArrivals/men10.png",
+    "title": "Nike P-6000",
+    "info": "Shoes",
+    "price": "RON 549.99"
+  }
+]

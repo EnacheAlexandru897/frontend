@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "ml1": "ml-10",
+    "ml2": "ml-7",
+    "ml3": "ml-3",
+    "img": "kids/kidslatest/kidslatest.PNG",
+    "name": "Summer Ready"
+  },
+
+  {
+    "id": 2,
+    "img": "kids/kidslatest/kidslatest2.PNG",
+    "name": "Max Cushioning Ride"
+  },
+
+  {
+    "id": 3,
+    "img": "kids/kidslatest/kidslatest3.PNG",
+    "name": "Teen Girls"
+  },
+
+  {
+    "id": 4,
+    "img": "kids/kidslatest/kidslatest4.PNG",
+    "name": "Air Max Dn8"
+  },
+
+  {
+    "id": 5,
+    "img": "kids/kidslatest/kidslatest5.PNG",
+    "name": "Fresh Footwear"
+  },
+  {
+    "id": 6,
+    "img": "kids/kidslatest/kidslatest6.PNG",
+    "name": "Bras & Leggings"
+  },
+
+  {
+    "id": 7,
+    "ml1": "mr-10",
+    "ml2": "mr-7",
+    "ml3": "mr-3",
+    "img": "kids/kidslatest/kidslatest7.PNG",
+    "name": "Black & White Selects"
+  }
+]

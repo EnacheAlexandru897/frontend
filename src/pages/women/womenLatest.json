@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "ml1": "ml-10",
+    "ml2": "ml-7",
+    "ml3": "ml-3",
+    "img": "women/womenlat/womenlat1.PNG",
+    "name": "Summer Ready"
+  },
+  {
+    "id": 2,
+    "img": "women/womenlat/womenlat2.PNG",
+    "name": "Nike From Collection"
+  },
+  {
+    "id": 3,
+    "img": "women/womenlat/womenlat3.PNG",
+    "name": "Max Cushioning Ride"
+  },
+  {
+    "id": 4,
+    "img": "women/womenlat/womenlat4.PNG",
+    "name": "Nike Style By"
+  },
+  {
+    "id": 5,
+    "img": "women/womenlat/womenlat5.PNG",
+    "name": "Perfect Leggings"
+  },
+  {
+    "id": 6,
+    "img": "women/womenlat/womenlat6.PNG",
+    "name": "Nike Prism Pack"
+  },
+  {
+    "id": 7,
+    "ml1": "mr-10",
+    "ml2": "mr-7",
+    "ml3": "mr-3",
+    "img": "women/womenlat/womenlat7.PNG",
+    "name": "Nike Air Max"
+  }
+]

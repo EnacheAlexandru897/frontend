@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "img": "photo/1.png",
+    "text": "Shop the Look" 
+  },
+
+  {
+    "id": 2,
+    "img": "photo/2.png",
+    "text": "Shop the Look"
+  },
+
+  {
+    "id": 3,
+    "img": "photo/3.png",
+    "text": "Shop the Look"
+  }
+]

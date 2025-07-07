@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "img": "menNewArrivals/yourseason/yourseas1.PNG",
+    "img1": "menNewArrivals/yourseason/yourseas4.PNG",
+    "name": "Running Looks",
+    "button": "Shop"
+  },
+  {
+    "id": 2,
+    "img": "menNewArrivals/yourseason/yourseas3.PNG",
+    "img1": "menNewArrivals/yourseason/yourseas5.PNG",
+    "name": "Race Ready",
+    "button": "Shop"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "background": "bg-white",
+    "name": "Nike App",
+    "info": "Kee up daily with the best of Nike, personalized for you.",
+    "button": "Explore"
+  },
+
+  {
+    "id": 2,
+    "background": "bg-black",
+    "textColor": "text-white",
+    "flexCol": "flex-col",
+    "mt": "mt-1",
+    "title": "NRC",
+    "name": "Nike Run Club",
+    "info": "Run with us in the Nike Run Club App.",
+    "button": "Explore"
+  },
+
+  {
+    "id": 3,
+    "background": "bg-white",
+    "flexCol": "flex-col",
+    "mt": "mt-1",
+    "title": "NTC",
+    "name": "Nike Training Club",
+    "info": "Move with the best in the Nike Training Club App.",
+    "button": "Explore"
+  },
+
+  {
+    "id": 4,
+    "background": "bg-red-600",
+    "textColor": "text-white",
+    "flexCol": "flex-col",
+    "mt": "mt-1",
+    "title": "SNKRS",
+    "name": "SNKRS",
+    "info": "Find the freshest drops in the SNKRS App.",
+    "button": "Explore"
+  }
+]

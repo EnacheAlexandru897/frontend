@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "ml1": "ml-10",
+    "ml2": "ml-7",
+    "ml3": "ml-3",
+    "img": "membership/member/membp1.PNG",
+    "title": "Member Product",
+    "info": "Your Exclusive Access",
+    "button": "Shop"
+  },
+
+  {
+    "id": 2,
+    "img": "membership/member/membp2.PNG",
+    "title": "Member Rewards",
+    "info": "How we say thank you",
+    "button": "Celebrate"
+  },
+
+  {
+    "id": 3,
+    "img": "membership/member/membp3.PNG",
+    "title": "Sport & Wellness",
+    "info": "Movement Where You're At",
+    "button": "Move"
+  },
+
+  {
+    "id": 4,
+    "img": "membership/member/membp4.PNG",
+    "title": "Nike By You",
+    "info": "Your customisation service",
+    "button": "Customise"
+  },
+
+  {
+    "id": 5,
+    "ml1": "mr-10",
+    "ml2": "mr-7",
+    "ml3": "mr-3",
+    "img": "membership/member/membp5.PNG",
+    "title": "SNKRS",
+    "info": "Your ultimate SNKRS community",
+    "button": "Explore"
+  } 
+
+]

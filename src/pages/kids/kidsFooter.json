@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Kid's Shoes",
+    "text1": "Kid's Astro Boots",
+    "text2": "Nike Air Max 270 Kids",
+    "text3": "Kids' Gym Shoes",
+    "text4": "Girl's Football Boots"
+  },
+  
+  {
+    "id": 2,
+    "title": "Kids' Clothing",
+    "text1": "Boys' Tracksuit Sale",
+    "text2": "Baby & Toddler Clothes",
+    "text3": "Leggings",
+    "text4": "Kids' Puffer Jacket"
+  },
+  
+  {
+    "id": 3,
+    "title": "Kids' Gear",
+    "text1": "Football Gloves",
+    "text2": "Kids' Football Kits",
+    "text3": "Kids' NBA",
+    "text4": ""
+  },
+  
+  {
+    "id": 4,
+    "title": "Featured",
+    "text1": "Swimwear",
+    "text2": "Nike Run Club",
+    "text3": "Nike Training Club",
+    "text4": "Running Sports Bras"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "ml1": "ml-13",
+    "ml2": "ml-8",
+    "ml3": "ml-5",
+    "img": "kids/kidstrending/kidstrending1.PNG",
+    "name": "Nike Multi",
+    "text": "Older Kids' Dri-FIT Training Shorts",
+    "price": "RON 99.99"
+  },
+  
+  {
+    "id": 2,
+    "img": "kids/kidstrending/kidstrending2.PNG",
+    "name": "Nike Vomero 5",
+    "text": "Older KiKid's Shoes",
+    "price": "RON 549.99"
+  },
+  
+  {
+    "id": 3,
+    "img": "kids/kidstrending/kidstrending3.PNG",
+    "name": "Nike Field General",
+    "text": "Older Kids' Shoes",
+    "price": "RON 379.99"
+  },
+  
+  {
+    "id": 4,
+    "img": "kids/kidstrending/kidstrending4.PNG",
+    "name": "Nike Sportswear",
+    "text": "Older Kids' (Girls') Oversized T-Shirt",
+    "price": "RON 139.99"
+  },
+  
+  {
+    "id": 5,
+    "img": "kids/kidstrending/kidstrending5.PNG",
+    "name": "Nike Flex Runner 3",
+    "text": "Older Kids' Shoes",
+    "price": "RON 179.99"
+  },
+  
+  {
+    "id": 6,
+    "img": "kids/kidstrending/kidstrending6.PNG",
+    "name": "Nike Pro",
+    "text": "Girls' Shorts",
+    "price": "RON 119.99"
+  },
+  
+  {
+    "id": 7,
+    "img": "kids/kidstrending/kidstrending7.PNG",
+    "name": "Nike Force 1 Low EasyOn",
+    "text": "Baby/Toddler Shoes",
+    "price": "RON 299.99"
+  },
+  
+  {
+    "id": 8,
+    "img": "kids/kidstrending/kidstrending8.PNG",
+    "name": "Nike Force 1 Low EasyOn",
+    "text": "Younger Kids' Shoes",
+    "price": "RON 349.99"
+  },
+  
+  {
+    "id": 9,
+    "img": "kids/kidstrending/kidstrending9.PNG",
+    "name": "Nike Cosmic Runer",
+    "text": "Baby/Toddler Shoes",
+    "price": "RON 179.99"
+  },
+  
+  {
+    "id": 10,
+    "ml1": "mr-13",
+    "ml2": "mr-8",
+    "ml3": "mr-5",
+    "img": "kids/kidstrending/kidstrending10.PNG",
+    "name": "Nike Sportswear",
+    "text": "Older Kids' T-Shirt",
+    "price": "RON 79.99"
+  }
+]

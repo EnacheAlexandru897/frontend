@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "ml": "ml-3",
+    "img": "kids/kidssize/kidssize5.PNG",
+    "name": "Babies & Toddlers (0 - 4Y)",
+    "shop": "Shop"
+  },
+  
+  {
+    "id": 2,
+    "img": "kids/kidssize/kidssize6.PNG",
+    "name": "Younger Kids (4 - 7Y)",
+    "shop": "Shop"
+  },
+  
+  {
+    "id": 3,
+    "img": "kids/kidssize/kidssize7.PNG",
+    "name": "Older Kids (7 - 15Y)",
+    "shop": "Shop"
+  },
+  
+  {
+    "id": 4,
+    "img": "kids/kidssize/kidssize8.PNG",
+    "name": "Extended Sizes",
+    "shop": "Shop"
+  }
+]

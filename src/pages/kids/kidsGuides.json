@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "img1": "kids/kidsfitg/kidsfitg1.PNG",
+    "img2": "kids/kidsfitg/kidsfitg4.PNG",
+    "name": "Kid's Football Boot Fit Guide",
+    "lMore": "Learn More"
+  },
+  {
+    "id": 2,
+    "img1": "kids/kidsfitg/kidsfitg2.PNG",
+    "img2": "kids/kidsfitg/kidsfitg5.PNG",
+    "name": "Kid's Running Shoe Fit Guide",
+    "lMore": "Learn More"
+  },
+  {
+    "id": 3,
+    "img1": "kids/kidsfitg/kidsfitg3.PNG",
+    "img2": "kids/kidsfitg/kidsfitg6.PNG",
+    "name": "Kid's Lifestyle Shoe Fit Guide",
+    "lMore": "Learn More"
+  }
+]
