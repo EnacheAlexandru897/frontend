@@ -12,11 +12,11 @@ import SignIn from "../pages/signIn/SignIn";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/frontend",
     element: <App />,
     children: [
       {
-        path: '/',
+        path: '/frontend',
         element: <Home />
       },
       {
